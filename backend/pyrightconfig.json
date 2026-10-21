@@ -1,0 +1,9 @@
+{
+  "venvPath": "../ml",
+  "venv": "venv312",
+  "extraPaths": [
+    ".",
+    "../ml",
+    "../ml/venv312/Lib/site-packages"
+  ]
+}

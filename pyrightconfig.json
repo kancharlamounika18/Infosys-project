@@ -1,0 +1,9 @@
+{
+  "venvPath": "ml",
+  "venv": "venv312",
+  "extraPaths": [
+    "backend",
+    "ml",
+    "ml/venv312/Lib/site-packages"
+  ]
+}
